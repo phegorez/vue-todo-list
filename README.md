@@ -1,6 +1,16 @@
-# vue-todo-list
+# vue-todo-list (for learning and acknowledge vue framwork and importent libraly)
 
-This template should help get you started developing with Vue 3 in Vite.
+Tools and Libraly
+
+Front-End :
+    - Vue (Framework)
+    - Vue-Router (Router Management)
+    - Pinia (State Management)
+    - TailwindCSS (CSS Framework)
+    - DaisyUI (Tailwind plugin)
+
+RestfulAPI :
+Mock-API (API Endpoint)
 
 ## Recommended IDE Setup
 
